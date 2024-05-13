@@ -3,11 +3,11 @@
 Sebelum memulai diperlukan library untuk koneksi pada [notion](https://www.notion.so/). Module library untuk API dapat dilihat [disini](https://github.com/rosfandy/notion-integration).
 
 ```jsx
-npm install @notionhq/client @/lib/notion
+npm install @notionhq/client
 ```
 
 ```jsx
-yarn add @notionhq/client @/lib/notion
+yarn add @notionhq/client
 ```
 
 ### Konfigurasi
